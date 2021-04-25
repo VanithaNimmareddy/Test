@@ -1,0 +1,11 @@
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\bin\Debug\netcoreapp2.1\ArrayProgram.deps.json
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\bin\Debug\netcoreapp2.1\ArrayProgram.runtimeconfig.json
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\bin\Debug\netcoreapp2.1\ArrayProgram.runtimeconfig.dev.json
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\bin\Debug\netcoreapp2.1\ArrayProgram.dll
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\bin\Debug\netcoreapp2.1\ArrayProgram.pdb
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.csprojAssemblyReference.cache
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.AssemblyInfoInputs.cache
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.AssemblyInfo.cs
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.dll
+C:\Users\12016\source\repos\ArrayProgram\ArrayProgram\obj\Debug\netcoreapp2.1\ArrayProgram.pdb
